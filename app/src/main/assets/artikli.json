@@ -1,0 +1,3192 @@
+[
+ {
+   "sif_mat": "01",
+   "naziv": "KENDA AKRILNI SPREJ",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "01-1001",
+   "naziv": "be�, beige",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-1003",
+   "naziv": "�uta signalna, giallo segnale",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-1007",
+   "naziv": "�uta, giallo cromo",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-1011",
+   "naziv": "be� tamnija, beige marrone",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-1013",
+   "naziv": "bela perla, bianco perla",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-1014",
+   "naziv": "be� slonova kost, avorio",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-1015",
+   "naziv": "be� svetlo, avorio chiaro",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-1021",
+   "naziv": "�uta kadmijum, giallo cadmio",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-1028",
+   "naziv": "�uta dinja, giallo melone NEW",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-2001",
+   "naziv": "bezbojna sjaj, trasparente L",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-2002",
+   "naziv": "bezbojna mat, trasparente O",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-2002.",
+   "naziv": "IMT vatrogasna, arancio sang.",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-2003",
+   "naziv": "oran� pastel, arancio pastello",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-2004",
+   "naziv": "narand�asta, arancio",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-2705",
+   "naziv": "antikorozivna siva,antiruggine",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-2706",
+   "naziv": "antikorozivna crvena, antirug.",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-2706.",
+   "naziv": "antikorozivna crvena NEW,antir",
+   "pr_cena": 276
+ },
+ {
+   "sif_mat": "01-3000",
+   "naziv": "crvena vatra, rosso fuoco",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-3003",
+   "naziv": "crvena rubin, rosso rubino",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-3004",
+   "naziv": "crvena purpurna, rosso porpora",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-3009",
+   "naziv": "crvena oksidna,rosso ossid.NEW",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-3015",
+   "naziv": "roze svetlo, rosa chiaro",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-3020",
+   "naziv": "crvena ferrari, rosso vivo",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-4003",
+   "naziv": "pink, viola erika",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-4005",
+   "naziv": "ljubi?asta, lilla blu",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-5002",
+   "naziv": "morsko plava, blu oltremare",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-5003",
+   "naziv": "plava safir, blu zaffiro",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-5004",
+   "naziv": "najtamnija plava, blu scuro",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-5005",
+   "naziv": "plava signalna, blu segnale",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-5010",
+   "naziv": "plava lila, blu genziana",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-5012",
+   "naziv": "plava svetlo, blu luce",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-5013",
+   "naziv": "plava kobalt, blu cobalto",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-5014",
+   "naziv": "meksiko plava, blu colomba",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-5015",
+   "naziv": "nebo plava, blu cielo",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-5017",
+   "naziv": "plava trafik, blu traffico",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-5018",
+   "naziv": "tirkizna, turchese",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-6002",
+   "naziv": "zelena prole?e,verde primavera",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-6003",
+   "naziv": "zelena maslinasto, verde oliva",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-6005",
+   "naziv": "zelena tamno, verde muschio",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-6011",
+   "naziv": "rezedo zelena, verde reseda",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-6018",
+   "naziv": "zelena trava, verde chiaro",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-6024",
+   "naziv": "zelena trafik, verde traffico",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-6028",
+   "naziv": "zelena bor, verde pino NEW",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-6029",
+   "naziv": "zelena menta, verde menta",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-6032",
+   "naziv": "zelena signalna, verde segnale",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-7000",
+   "naziv": "siva standard, grigio vaio",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-7001",
+   "naziv": "sivo srebrna, grigio argento",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-7005",
+   "naziv": "grigio topo",
+   "pr_cena": 141.163
+ },
+ {
+   "sif_mat": "01-7011",
+   "naziv": "siva tamno, grigio ferro",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-7016",
+   "naziv": "siva antracit,grigio antracite",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-7021",
+   "naziv": "siva najtamnija, grigio scuro",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-7031",
+   "naziv": "siva golubije, grigio blu",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-7035",
+   "naziv": "siva svetlo, grigio chiaro",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-7040",
+   "naziv": "siva prozor,grigio finestraNEW",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-8003",
+   "naziv": "braon terakota,marrone terrac.",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-8011",
+   "naziv": "braon orah, bruno noce",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-8012",
+   "naziv": "braon crvenkasta,marrone rosso",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-8017",
+   "naziv": "braon ?okolada, marrone ciocc.",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-8019",
+   "naziv": "braon za oluke,marrone grondai",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-9002",
+   "naziv": "belo siva, bianco grigio",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-9005L",
+   "naziv": "crna sjaj, nero lucido",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-9005O",
+   "naziv": "crna mat, nero opaco",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-9006",
+   "naziv": "aluminijum, alluminio",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-9010L",
+   "naziv": "bela sjaj, bianco lucido",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-9010O",
+   "naziv": "bela mat, bianco opaco",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-9016",
+   "naziv": "extra bela, bianco NEW",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-elet.",
+   "naziv": "bela tehnika-univerzalni.NEW",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "01-elett",
+   "naziv": "bela tehnika i ku?ni aparati",
+   "pr_cena": 286
+ },
+ {
+   "sif_mat": "02",
+   "naziv": "KENDA METALIK SPREJ",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "02-2901",
+   "naziv": "staro zlato metalik, oro ricco",
+   "pr_cena": 440
+ },
+ {
+   "sif_mat": "02-2902",
+   "naziv": "novo zlato metalik,oro pallido",
+   "pr_cena": 332
+ },
+ {
+   "sif_mat": "02-2902.",
+   "naziv": "novo zlato, oro pallido NEW",
+   "pr_cena": 332
+ },
+ {
+   "sif_mat": "02-2903",
+   "naziv": "bakar metalik, rame",
+   "pr_cena": 332
+ },
+ {
+   "sif_mat": "02-2903.",
+   "naziv": "bakar metalik NEW, rame",
+   "pr_cena": 332
+ },
+ {
+   "sif_mat": "02-2905",
+   "naziv": "srebro metalik, argento",
+   "pr_cena": 332
+ },
+ {
+   "sif_mat": "03",
+   "naziv": "KENDA SPREJ ZA VISOKE TEMP.600",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "03-5802",
+   "naziv": "bezbojna vis.temp, trasparente",
+   "pr_cena": 508
+ },
+ {
+   "sif_mat": "03-5803",
+   "naziv": "bela mat vis.temp,bianco opaco",
+   "pr_cena": 217.8
+ },
+ {
+   "sif_mat": "03-5804",
+   "naziv": "aluminijum vis.temp, alluminio",
+   "pr_cena": 508
+ },
+ {
+   "sif_mat": "03-5805",
+   "naziv": "crna mat vis.temp, nero opaco",
+   "pr_cena": 508
+ },
+ {
+   "sif_mat": "03-5806",
+   "naziv": "crvena mat vis.temp, rosso",
+   "pr_cena": 508
+ },
+ {
+   "sif_mat": "04",
+   "naziv": "KENDA SPREJ EFEKAT HROMA NIKL",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "04-3007",
+   "naziv": "hrom srebro, cromatura argento",
+   "pr_cena": 412
+ },
+ {
+   "sif_mat": "04-3008",
+   "naziv": "hrom zlato, cromatura oro",
+   "pr_cena": 412
+ },
+ {
+   "sif_mat": "05",
+   "naziv": "KENDA AUTO SPREJ",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "05-F110",
+   "naziv": "auto bordo crvena, rubino",
+   "pr_cena": 328
+ },
+ {
+   "sif_mat": "05-F120",
+   "naziv": "auto crvena corsa, rosso corsa",
+   "pr_cena": 328
+ },
+ {
+   "sif_mat": "05-F181",
+   "naziv": "auto tamno crvena, rosso scuro",
+   "pr_cena": 328
+ },
+ {
+   "sif_mat": "05-F224",
+   "naziv": "auto bela corfu, bianco corfu",
+   "pr_cena": 328
+ },
+ {
+   "sif_mat": "05-F233",
+   "naziv": "auto bela, bianco",
+   "pr_cena": 328
+ },
+ {
+   "sif_mat": "05-F4705",
+   "naziv": "�pric git sprej, stocco beige",
+   "pr_cena": 328
+ },
+ {
+   "sif_mat": "05-F4706",
+   "naziv": "�pric git sprej, stocco grigio",
+   "pr_cena": 328
+ },
+ {
+   "sif_mat": "05-F5101",
+   "naziv": "auto bela sjaj, bianco lucido",
+   "pr_cena": 328
+ },
+ {
+   "sif_mat": "05-F601",
+   "naziv": "auto crna sjaj, nero lucido",
+   "pr_cena": 328
+ },
+ {
+   "sif_mat": "05-F690",
+   "naziv": "aluminijum felne, allu. ruote",
+   "pr_cena": 328
+ },
+ {
+   "sif_mat": "06",
+   "naziv": "KENDA SPREJ CINK",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "06-cink",
+   "naziv": "cink sprej, zinco spray",
+   "pr_cena": 370
+ },
+ {
+   "sif_mat": "07",
+   "naziv": "KENDA PLASTIK BUMPER SPREJ",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "07-000",
+   "naziv": "transp.prajmer,aggrap.plastico",
+   "pr_cena": 419
+ },
+ {
+   "sif_mat": "07-001",
+   "naziv": "paraurti crna mat, nero opaco",
+   "pr_cena": 419
+ },
+ {
+   "sif_mat": "07-002",
+   "naziv": "paraurti antracit, antracite",
+   "pr_cena": 419
+ },
+ {
+   "sif_mat": "07-003",
+   "naziv": "paraurti t.siva, grigio panda",
+   "pr_cena": 419
+ },
+ {
+   "sif_mat": "07-006",
+   "naziv": "paraurti bela, bianco",
+   "pr_cena": 419
+ },
+ {
+   "sif_mat": "08",
+   "naziv": "KENDA SPR.METALIZIRANI PRSKANI",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "08-2921",
+   "naziv": "lila metalizirana, lilla m.",
+   "pr_cena": 328
+ },
+ {
+   "sif_mat": "08-2922",
+   "naziv": "smaragd metalizirana, smeraldo",
+   "pr_cena": 328
+ },
+ {
+   "sif_mat": "08-2923",
+   "naziv": "srebrna metalizirana,argento m",
+   "pr_cena": 328
+ },
+ {
+   "sif_mat": "08-2924",
+   "naziv": "�uta metalizirana, giallo m.",
+   "pr_cena": 328
+ },
+ {
+   "sif_mat": "08-2925",
+   "naziv": "crvena metalizirana, rosso m.",
+   "pr_cena": 328
+ },
+ {
+   "sif_mat": "08-2926",
+   "naziv": "plava metalizirana, blu m.",
+   "pr_cena": 328
+ },
+ {
+   "sif_mat": "08-2927",
+   "naziv": "zelena metalizirana, verde m.",
+   "pr_cena": 328
+ },
+ {
+   "sif_mat": "08-2928",
+   "naziv": "viola metalizirana, viola m.",
+   "pr_cena": 328
+ },
+ {
+   "sif_mat": "08-2929",
+   "naziv": "crna metalizirana, nero m.",
+   "pr_cena": 328
+ },
+ {
+   "sif_mat": "09",
+   "naziv": "KENDA SPREJ FLUORESCENTNI",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "09-2211",
+   "naziv": "�uta fluorescentna, giallo f.",
+   "pr_cena": 447
+ },
+ {
+   "sif_mat": "09-2311",
+   "naziv": "crvena fluorescentna, rosso f.",
+   "pr_cena": 447
+ },
+ {
+   "sif_mat": "09-2411",
+   "naziv": "plava fluorescentna, blu f.",
+   "pr_cena": 447
+ },
+ {
+   "sif_mat": "09-2511",
+   "naziv": "zelena fluorescentna, verde f.",
+   "pr_cena": 447
+ },
+ {
+   "sif_mat": "09-2611",
+   "naziv": "oran� fluorescentna,arancio f.",
+   "pr_cena": 447
+ },
+ {
+   "sif_mat": "09-2711",
+   "naziv": "roze fluorescentna, rosa f.",
+   "pr_cena": 447
+ },
+ {
+   "sif_mat": "10",
+   "naziv": "KENDA SPR.EFEKAT GVO�?A ANTIKA",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "10-1901",
+   "naziv": "svetlo siva gvo�?e,grig.chiaro",
+   "pr_cena": 354
+ },
+ {
+   "sif_mat": "10-1902",
+   "naziv": "siva gvo�?e, grigio forggia",
+   "pr_cena": 354
+ },
+ {
+   "sif_mat": "10-1903",
+   "naziv": "grafit gvo�?e, graffite ferro.",
+   "pr_cena": 354
+ },
+ {
+   "sif_mat": "10-1904",
+   "naziv": "zelena gvo�?e,verde ferromicac",
+   "pr_cena": 354
+ },
+ {
+   "sif_mat": "10-1905",
+   "naziv": "plava gvo�?e,blu ferromicaceo",
+   "pr_cena": 354
+ },
+ {
+   "sif_mat": "1000000",
+   "naziv": "AVANSNI RACUN 20%",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "1000001",
+   "naziv": "AVANSNI RACUN INO",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "101",
+   "naziv": "KENDA SPREJ ZA ALU STOLARIJU",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "101-3001",
+   "naziv": "bronza, bronzetto",
+   "pr_cena": 340
+ },
+ {
+   "sif_mat": "103",
+   "naziv": "TWIST SPREJ",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "103-905L",
+   "naziv": "TWIST crna sjaj 600 ml",
+   "pr_cena": 360
+ },
+ {
+   "sif_mat": "103-905O",
+   "naziv": "TWIST crna mat 600 ml",
+   "pr_cena": 360
+ },
+ {
+   "sif_mat": "103-910L",
+   "naziv": "TWIST bela sjaj 600 ml",
+   "pr_cena": 360
+ },
+ {
+   "sif_mat": "103-910O",
+   "naziv": "TWIST bela mat 600 ml",
+   "pr_cena": 360
+ },
+ {
+   "sif_mat": "104",
+   "naziv": "FOLIJA U SPREJU 400 ml",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "104-alum",
+   "naziv": "Folija u spreju aluminijum",
+   "pr_cena": 600
+ },
+ {
+   "sif_mat": "104-bela",
+   "naziv": "Folija u spreju bela mat",
+   "pr_cena": 600
+ },
+ {
+   "sif_mat": "104-c.m.",
+   "naziv": "Folija u spreju crni mat",
+   "pr_cena": 600
+ },
+ {
+   "sif_mat": "104-crve",
+   "naziv": "Folija u spreju crvena",
+   "pr_cena": 600
+ },
+ {
+   "sif_mat": "104-plav",
+   "naziv": "Folija u spreju plava",
+   "pr_cena": 600
+ },
+ {
+   "sif_mat": "104-t.m.",
+   "naziv": "Folija u spreju transparen.mat",
+   "pr_cena": 600
+ },
+ {
+   "sif_mat": "104-t.s.",
+   "naziv": "Folija u spreju transpa.sjaj",
+   "pr_cena": 600
+ },
+ {
+   "sif_mat": "104-zele",
+   "naziv": "Folija u spreju zelena",
+   "pr_cena": 600
+ },
+ {
+   "sif_mat": "104-zlat",
+   "naziv": "Folija u spreju zlatna",
+   "pr_cena": 600
+ },
+ {
+   "sif_mat": "104-�uta",
+   "naziv": "Folija u spreju �uta",
+   "pr_cena": 600
+ },
+ {
+   "sif_mat": "11",
+   "naziv": "KENDA SILIKON SPREJ",
+   "pr_cena": 366
+ },
+ {
+   "sif_mat": "12",
+   "naziv": "SPREJ ZA ELEKTRI?NE KONTAKTE",
+   "pr_cena": 306
+ },
+ {
+   "sif_mat": "13",
+   "naziv": "START SPREJ 200 ml",
+   "pr_cena": 230
+ },
+ {
+   "sif_mat": "13-01",
+   "naziv": "LEPAK U SPREJU 400 ml  NEW",
+   "pr_cena": 360
+ },
+ {
+   "sif_mat": "13-011",
+   "naziv": "LEPAK U SPREJU 400 ml",
+   "pr_cena": 360
+ },
+ {
+   "sif_mat": "13-02",
+   "naziv": "TE?NOST ZA ZA�TITU ZIDOVA OD",
+   "pr_cena": 560
+ },
+ {
+   "sif_mat": "13-03",
+   "naziv": "SPREJ ZA ?I�?ENJE KUPATILA 300",
+   "pr_cena": 160
+ },
+ {
+   "sif_mat": "13-04",
+   "naziv": "SPREJ ZA ?I�?ENJE RERNI 300 ml",
+   "pr_cena": 160
+ },
+ {
+   "sif_mat": "13-05",
+   "naziv": "SPREJ ZA SANITARIJE 400 ml",
+   "pr_cena": 328
+ },
+ {
+   "sif_mat": "13-1",
+   "naziv": "lacquer thinner da 0,9 \"kenda\"",
+   "pr_cena": 76.45
+ },
+ {
+   "sif_mat": "13-2",
+   "naziv": "aquaragia nad da 1 l \"kkkkk\"",
+   "pr_cena": 90.72
+ },
+ {
+   "sif_mat": "13-3",
+   "naziv": "Laquer thinner da 5 litri",
+   "pr_cena": 338.68
+ },
+ {
+   "sif_mat": "13-4",
+   "naziv": "uljani razre?iva? burad 200 l",
+   "pr_cena": 12551.9
+ },
+ {
+   "sif_mat": "13-40",
+   "naziv": "Uljani razre?iva?",
+   "pr_cena": 64270
+ },
+ {
+   "sif_mat": "13-40.",
+   "naziv": "Uljani razre?iva?",
+   "pr_cena": 54.34
+ },
+ {
+   "sif_mat": "13-41",
+   "naziv": "ECOBULCK IBC kontejner 1000 L",
+   "pr_cena": 19908
+ },
+ {
+   "sif_mat": "13-5",
+   "naziv": "Kenda sprej visok.tem.al.+crna",
+   "pr_cena": 253.32
+ },
+ {
+   "sif_mat": "13-6",
+   "naziv": "Kenda sprej RAL razne boje",
+   "pr_cena": 139.21
+ },
+ {
+   "sif_mat": "13-7",
+   "naziv": "Kenda sprej bakar+srebro",
+   "pr_cena": 164.32
+ },
+ {
+   "sif_mat": "14",
+   "naziv": "KENDA NITRO RAZRE?IVA?, 15 L",
+   "pr_cena": 2255
+ },
+ {
+   "sif_mat": "15",
+   "naziv": "KENDA NITRO RAZRE?IVA?,1 L lim",
+   "pr_cena": 158
+ },
+ {
+   "sif_mat": "15-1",
+   "naziv": "KENDA NITRO RAZRE?IVA?,PVC 0,9",
+   "pr_cena": 121
+ },
+ {
+   "sif_mat": "15-1.",
+   "naziv": "NITRO RAZRE?IVA?, PVC 0,8 L",
+   "pr_cena": 105
+ },
+ {
+   "sif_mat": "15-10",
+   "naziv": "NITRO RAZRE?IVA? PVC 0,9L  NEW",
+   "pr_cena": 98
+ },
+ {
+   "sif_mat": "15-12",
+   "naziv": "DILUENTE NITRO",
+   "pr_cena": 34.889
+ },
+ {
+   "sif_mat": "15-121",
+   "naziv": "DILUENTE NITRO  M",
+   "pr_cena": 26.045
+ },
+ {
+   "sif_mat": "15-13",
+   "naziv": "NITRO RAZRE?IVA?",
+   "pr_cena": 51170
+ },
+ {
+   "sif_mat": "15-14",
+   "naziv": "BITUSOL",
+   "pr_cena": 41475
+ },
+ {
+   "sif_mat": "15-2",
+   "naziv": "KENDA NITRO RAZRE?IVA?,0,9 lim",
+   "pr_cena": 151
+ },
+ {
+   "sif_mat": "16",
+   "naziv": "KENDA NITRO RAZRE?IVA?,5 L lim",
+   "pr_cena": 728
+ },
+ {
+   "sif_mat": "17",
+   "naziv": "KENDA NITRO RAZRE?IVA?, 25 L",
+   "pr_cena": 3256
+ },
+ {
+   "sif_mat": "17-1",
+   "naziv": "KENDA NITRO RAZRE?IVA?, 22 L",
+   "pr_cena": 2865
+ },
+ {
+   "sif_mat": "18",
+   "naziv": "KENDA ULJANI RAZRE?IVA?, 0,5 L",
+   "pr_cena": 125
+ },
+ {
+   "sif_mat": "19",
+   "naziv": "KENDA NITRO RAZRE?IVA?, 20 L",
+   "pr_cena": 2745
+ },
+ {
+   "sif_mat": "20",
+   "naziv": "KENDA ULJANI RAZRE?IVA?,1L lim",
+   "pr_cena": 171
+ },
+ {
+   "sif_mat": "20-1",
+   "naziv": "KENDA ULJANI RAZRE?IVA? 0,9 L",
+   "pr_cena": 180
+ },
+ {
+   "sif_mat": "20-2",
+   "naziv": "KENDA ULJANI RAZRE?. PVC 0,9 l",
+   "pr_cena": 160
+ },
+ {
+   "sif_mat": "21",
+   "naziv": "MULTIFIX univerz.lepak 400 gr",
+   "pr_cena": 420
+ },
+ {
+   "sif_mat": "22",
+   "naziv": "MULTIFIX univerz.lepak 850 gr",
+   "pr_cena": 634
+ },
+ {
+   "sif_mat": "23",
+   "naziv": "MULTIFIX univerz.lepak 1700 gr",
+   "pr_cena": 1240
+ },
+ {
+   "sif_mat": "24",
+   "naziv": "MULTIFIX univerz.lepak 4000 gr",
+   "pr_cena": 2500
+ },
+ {
+   "sif_mat": "25",
+   "naziv": "KENDAVIL lepak za drvo 100 gr",
+   "pr_cena": 95
+ },
+ {
+   "sif_mat": "26",
+   "naziv": "KENDAVIL lepak za drvo 300 gr",
+   "pr_cena": 165
+ },
+ {
+   "sif_mat": "27",
+   "naziv": "KENDAVIL lepak za drvo 1 kg",
+   "pr_cena": 345
+ },
+ {
+   "sif_mat": "28",
+   "naziv": "KENDAVIL lepak za drvo 500 gr",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "29",
+   "naziv": "KENDAVIL lepak za drvo 5000 gr",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "30",
+   "naziv": "KENDAVIL lepak za drvo 25000gr",
+   "pr_cena": 6410
+ },
+ {
+   "sif_mat": "31",
+   "naziv": "TRAPCOLL lepak za mi�eve 135gr",
+   "pr_cena": 149
+ },
+ {
+   "sif_mat": "32",
+   "naziv": "KENDAL prof. transp.lepak 1 kg",
+   "pr_cena": 448
+ },
+ {
+   "sif_mat": "32-1",
+   "naziv": "KENDAL prof.transp.lepak 25 kg",
+   "pr_cena": 9285
+ },
+ {
+   "sif_mat": "33",
+   "naziv": "KENDAPRENE univerz.lepak 75 gr",
+   "pr_cena": 120.8
+ },
+ {
+   "sif_mat": "34",
+   "naziv": "KENDAPRENE univerz.lepak 130gr",
+   "pr_cena": 158
+ },
+ {
+   "sif_mat": "35",
+   "naziv": "KENDAPRENE RAPID, 20 gr",
+   "pr_cena": 69
+ },
+ {
+   "sif_mat": "36",
+   "naziv": "KENDAPRENE RAPID, 250 gr",
+   "pr_cena": 282
+ },
+ {
+   "sif_mat": "36-1",
+   "naziv": "PVC FIX lepak 125 gr transpar.",
+   "pr_cena": 160
+ },
+ {
+   "sif_mat": "36-3",
+   "naziv": "MONTA�NI KIT 310 ml",
+   "pr_cena": 312
+ },
+ {
+   "sif_mat": "37-01",
+   "naziv": "MAMUT LEPAK 25 ml",
+   "pr_cena": 325
+ },
+ {
+   "sif_mat": "37-02",
+   "naziv": "MAMUT LEPAK 290 ml",
+   "pr_cena": 734
+ },
+ {
+   "sif_mat": "40",
+   "naziv": "SKID BOJA,sverniciatore, 0,75l",
+   "pr_cena": 490
+ },
+ {
+   "sif_mat": "40-0",
+   "naziv": "SKID BOJA U SPREJU, 400 ml",
+   "pr_cena": 530
+ },
+ {
+   "sif_mat": "40-1",
+   "naziv": "SKID BOJA, sverniciatore, 5 kg",
+   "pr_cena": 480
+ },
+ {
+   "sif_mat": "41",
+   "naziv": "KOREKTOR ZA KADE, SMALTO 30 ml",
+   "pr_cena": 290
+ },
+ {
+   "sif_mat": "42",
+   "naziv": "UNIVERZAL.ODVIJA? SPREJ 200 ml",
+   "pr_cena": 208
+ },
+ {
+   "sif_mat": "43",
+   "naziv": "IZOLIR TRAKA 15x10",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "43-bela",
+   "naziv": "nastro pvc elettricisti,bianco",
+   "pr_cena": 62
+ },
+ {
+   "sif_mat": "43-crna",
+   "naziv": "nastro pvc elettricisti, nero",
+   "pr_cena": 62
+ },
+ {
+   "sif_mat": "43-crven",
+   "naziv": "nastro pvc elettricisti, rosso",
+   "pr_cena": 62
+ },
+ {
+   "sif_mat": "43-plava",
+   "naziv": "nastro pvc elettricisti,azzuro",
+   "pr_cena": 62
+ },
+ {
+   "sif_mat": "43-siva",
+   "naziv": "nastro pvc elettricisti,grigio",
+   "pr_cena": 62
+ },
+ {
+   "sif_mat": "44",
+   "naziv": "SILIKON, transparentni, 280 ml",
+   "pr_cena": 205
+ },
+ {
+   "sif_mat": "44-2",
+   "naziv": "SILIKON, crni, 280 ml",
+   "pr_cena": 231
+ },
+ {
+   "sif_mat": "44-3",
+   "naziv": "SILIKON, sivi, 280 ml",
+   "pr_cena": 220
+ },
+ {
+   "sif_mat": "44-4",
+   "naziv": "SILIKON, braon, 280 ml",
+   "pr_cena": 220
+ },
+ {
+   "sif_mat": "45",
+   "naziv": "AKRILNI SILIKON KIT beli,280ml",
+   "pr_cena": 138
+ },
+ {
+   "sif_mat": "45-1",
+   "naziv": "SILIKON 300C crveni, 310 ml",
+   "pr_cena": 432
+ },
+ {
+   "sif_mat": "45-2",
+   "naziv": "KIT za 1200 C, 280ml",
+   "pr_cena": 320
+ },
+ {
+   "sif_mat": "51",
+   "naziv": "ANTIFRIZ STANDARDNI \"ICE FLU\"",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "51-1kg",
+   "naziv": "stand.koncentrat 100%,boca 1kg",
+   "pr_cena": 210
+ },
+ {
+   "sif_mat": "51-2 L",
+   "naziv": "stand.koncentrat 100% boca 1 l",
+   "pr_cena": 225
+ },
+ {
+   "sif_mat": "51-235kg",
+   "naziv": "st.koncentrat 100%, bure 235kg",
+   "pr_cena": 11300
+ },
+ {
+   "sif_mat": "51-25kg",
+   "naziv": "st.koncentrat 100%, kanta 25kg",
+   "pr_cena": 226
+ },
+ {
+   "sif_mat": "51-5L",
+   "naziv": "stand.koncentrat 100%,kanta 5L",
+   "pr_cena": 1.13
+ },
+ {
+   "sif_mat": "51-60kg",
+   "naziv": "st.koncentrat 100%, kanta 60kg",
+   "pr_cena": 113
+ },
+ {
+   "sif_mat": "51-IBC",
+   "naziv": "st.koncentrat 100% u tanku",
+   "pr_cena": 140
+ },
+ {
+   "sif_mat": "51-IBC.",
+   "naziv": "ANTIGELO CONC. V/BLU",
+   "pr_cena": 113000
+ },
+ {
+   "sif_mat": "52",
+   "naziv": "ANTIFRIZ CRVENI G 12",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "52-1L",
+   "naziv": "crveni koncentrat 100%,boca 1l",
+   "pr_cena": 265
+ },
+ {
+   "sif_mat": "52-1kg",
+   "naziv": "crveni koncentrat 100%, rinfuz",
+   "pr_cena": 102443.81
+ },
+ {
+   "sif_mat": "53",
+   "naziv": "ANTIFRIZ tip SUNSHINE",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "57",
+   "naziv": "FREON R12, boca 13,6 kg",
+   "pr_cena": 120
+ },
+ {
+   "sif_mat": "58",
+   "naziv": "FREON R134, boca 13,6 kg",
+   "pr_cena": 120
+ },
+ {
+   "sif_mat": "61",
+   "naziv": "TON KARTA, mazzette colori",
+   "pr_cena": 268.178
+ },
+ {
+   "sif_mat": "62",
+   "naziv": "POLICA, espositore 35 bombole",
+   "pr_cena": 2700
+ },
+ {
+   "sif_mat": "63",
+   "naziv": "POLICA, espositore 105 bombole",
+   "pr_cena": 3500
+ },
+ {
+   "sif_mat": "63-1",
+   "naziv": "POLICA, espositore 105R",
+   "pr_cena": 9000
+ },
+ {
+   "sif_mat": "63-11",
+   "naziv": "POLICA, espositore 504 bombole",
+   "pr_cena": 36000
+ },
+ {
+   "sif_mat": "63-2",
+   "naziv": "POLICA NETROL MALA",
+   "pr_cena": 1635
+ },
+ {
+   "sif_mat": "63-3",
+   "naziv": "POLICA NETROL VELIKA",
+   "pr_cena": 12530
+ },
+ {
+   "sif_mat": "63-4",
+   "naziv": "POLICA KARTONSKA FAREN",
+   "pr_cena": 3600
+ },
+ {
+   "sif_mat": "64",
+   "naziv": "POLICA, espositore 420 bombole",
+   "pr_cena": 8130.1
+ },
+ {
+   "sif_mat": "65",
+   "naziv": "POLICA  espositore 528 bombole",
+   "pr_cena": 8130.1
+ },
+ {
+   "sif_mat": "71",
+   "naziv": "Bela boja za put",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "72",
+   "naziv": "Razre?iva? boje za put",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "73",
+   "naziv": "Staklene perle",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "77",
+   "naziv": "Limovi za ?etke",
+   "pr_cena": 525.63
+ },
+ {
+   "sif_mat": "78",
+   "naziv": "Plasti?ne dr�ke za ?etke",
+   "pr_cena": 390
+ },
+ {
+   "sif_mat": "78.1",
+   "naziv": "Lepak",
+   "pr_cena": 377.5
+ },
+ {
+   "sif_mat": "78.2",
+   "naziv": "Katalizator",
+   "pr_cena": 1016.67
+ },
+ {
+   "sif_mat": "78.3",
+   "naziv": "PLAST.UMETAK ZA ?ETKE 7X8X150",
+   "pr_cena": 589.99
+ },
+ {
+   "sif_mat": "78.4",
+   "naziv": "Chunking dlaka 44 mm",
+   "pr_cena": 1306
+ },
+ {
+   "sif_mat": "78.5",
+   "naziv": "Chunking dlaka 51 mm",
+   "pr_cena": 1454
+ },
+ {
+   "sif_mat": "78.6",
+   "naziv": "Chunking dlaka 57 mm",
+   "pr_cena": 1819
+ },
+ {
+   "sif_mat": "78.7",
+   "naziv": "Chunking dlaka 64 mm",
+   "pr_cena": 2317
+ },
+ {
+   "sif_mat": "78.8",
+   "naziv": "Smesa lepka i katalizatora",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "79ek",
+   "naziv": "EKONOMIK ?ETKA",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "79ek20",
+   "naziv": "Ekonomik ?etka 20x15",
+   "pr_cena": 41
+ },
+ {
+   "sif_mat": "79ek30",
+   "naziv": "Ekonomik ?etka 30x15",
+   "pr_cena": 51
+ },
+ {
+   "sif_mat": "79ek40",
+   "naziv": "Ekonomik ?etka 40x15",
+   "pr_cena": 70
+ },
+ {
+   "sif_mat": "79ek50",
+   "naziv": "Ekonomik ?etka 50x15",
+   "pr_cena": 87
+ },
+ {
+   "sif_mat": "79ek60",
+   "naziv": "Ekonomik ?etka 60x15",
+   "pr_cena": 130
+ },
+ {
+   "sif_mat": "79ek70",
+   "naziv": "Ekonomik ?etka 70x15",
+   "pr_cena": 147
+ },
+ {
+   "sif_mat": "79ek80",
+   "naziv": "Ekonomik ?etka 80x15",
+   "pr_cena": 199
+ },
+ {
+   "sif_mat": "79ek90",
+   "naziv": "Ekonomik ?etka 90x15",
+   "pr_cena": 221
+ },
+ {
+   "sif_mat": "79ekSto",
+   "naziv": "Ekonomik ?etka 100x15",
+   "pr_cena": 273
+ },
+ {
+   "sif_mat": "79lak",
+   "naziv": "LAKIR ?ETKA STANDARD",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "79lak20",
+   "naziv": "Lakir ?etka standard 20x15",
+   "pr_cena": 57
+ },
+ {
+   "sif_mat": "79lak30",
+   "naziv": "Lakir ?etka standard 30x15",
+   "pr_cena": 74
+ },
+ {
+   "sif_mat": "79lak40",
+   "naziv": "Lakir ?etka standard 40x15",
+   "pr_cena": 90
+ },
+ {
+   "sif_mat": "79lak50",
+   "naziv": "Lakir ?etka standard 50x15",
+   "pr_cena": 121
+ },
+ {
+   "sif_mat": "79lak60",
+   "naziv": "Lakir ?etka standard 60x15",
+   "pr_cena": 167
+ },
+ {
+   "sif_mat": "79lak70",
+   "naziv": "Lakir ?etka standard 70x15",
+   "pr_cena": 213
+ },
+ {
+   "sif_mat": "79lak80",
+   "naziv": "Lakir ?etka standard 80x15",
+   "pr_cena": 244
+ },
+ {
+   "sif_mat": "79lak90",
+   "naziv": "Lakir ?etka standard 90x15",
+   "pr_cena": 260
+ },
+ {
+   "sif_mat": "79lakSto",
+   "naziv": "Lakir ?etka standard 100x15",
+   "pr_cena": 334
+ },
+ {
+   "sif_mat": "79pro",
+   "naziv": "PROFI ?ETKA",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "79pro1",
+   "naziv": "Profi ?etka 1 \"",
+   "pr_cena": 116
+ },
+ {
+   "sif_mat": "79pro1.5",
+   "naziv": "Profi ?etka 1.5 \"",
+   "pr_cena": 174
+ },
+ {
+   "sif_mat": "79pro2",
+   "naziv": "Profi ?etka 2 \"",
+   "pr_cena": 225
+ },
+ {
+   "sif_mat": "79pro2.5",
+   "naziv": "Profi ?etka 2.5 \"",
+   "pr_cena": 283
+ },
+ {
+   "sif_mat": "79pro3",
+   "naziv": "Profi ?etka 3 \"",
+   "pr_cena": 360
+ },
+ {
+   "sif_mat": "79pro4",
+   "naziv": "Profi ?etka 4 \"",
+   "pr_cena": 463
+ },
+ {
+   "sif_mat": "79rad",
+   "naziv": "RADIJATOR ?ETKA",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "79rad1",
+   "naziv": "Radijator ?etka 1 \"",
+   "pr_cena": 113
+ },
+ {
+   "sif_mat": "79rad1.5",
+   "naziv": "Radijator ?etka 1.5 \"",
+   "pr_cena": 127
+ },
+ {
+   "sif_mat": "79rad2",
+   "naziv": "Radijator ?etka 2 \"",
+   "pr_cena": 148
+ },
+ {
+   "sif_mat": "79rad2.5",
+   "naziv": "Radijator ?etka 2.5 \"",
+   "pr_cena": 163
+ },
+ {
+   "sif_mat": "81",
+   "naziv": "KREP TRAKA 60c, KENDA, 35 m",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "81-19x35",
+   "naziv": "krep traka 60c, 19mm x 35m",
+   "pr_cena": 42.1
+ },
+ {
+   "sif_mat": "81-25x35",
+   "naziv": "krep traka 60c, 25mm x 35m",
+   "pr_cena": 55.33
+ },
+ {
+   "sif_mat": "81-30x35",
+   "naziv": "krep traka 60c, 30mm x 35m",
+   "pr_cena": 66.22
+ },
+ {
+   "sif_mat": "81-38x35",
+   "naziv": "krep traka 60c, 38mm x 35m",
+   "pr_cena": 83.54
+ },
+ {
+   "sif_mat": "81-50x35",
+   "naziv": "krep traka 60c, 50mm x 35m",
+   "pr_cena": 108.94
+ },
+ {
+   "sif_mat": "82",
+   "naziv": "KREP TRAKA 60c, KENDA, 50 m",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "82-19x50",
+   "naziv": "krep traka 60c, 19mm x 50m",
+   "pr_cena": 59.54
+ },
+ {
+   "sif_mat": "82-25x50",
+   "naziv": "krep traka 60c, 25mm x 50m",
+   "pr_cena": 78.23
+ },
+ {
+   "sif_mat": "82-30x50",
+   "naziv": "krep traka 60c, 30mm x 50m",
+   "pr_cena": 93.45
+ },
+ {
+   "sif_mat": "82-38x50",
+   "naziv": "krep traka 60c, 38mm x 50m",
+   "pr_cena": 117.59
+ },
+ {
+   "sif_mat": "82-50x50",
+   "naziv": "krep traka 60c, 50mm x 50m",
+   "pr_cena": 154.11
+ },
+ {
+   "sif_mat": "821",
+   "naziv": "KREP TRAKA 80c, KENDA, 32 m",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "821 19mm",
+   "naziv": "krep traka 80c, 19mmx32m",
+   "pr_cena": 58
+ },
+ {
+   "sif_mat": "821 25mm",
+   "naziv": "krep traka 80c, 25mmx32m",
+   "pr_cena": 76
+ },
+ {
+   "sif_mat": "821 30mm",
+   "naziv": "krep traka 80c, 30mmx32m",
+   "pr_cena": 92
+ },
+ {
+   "sif_mat": "821 38mm",
+   "naziv": "krep traka 80c, 38mmx32m",
+   "pr_cena": 116.7
+ },
+ {
+   "sif_mat": "821 50mm",
+   "naziv": "krep traka 80c, 50mmx32m",
+   "pr_cena": 153.5
+ },
+ {
+   "sif_mat": "822",
+   "naziv": "KREP TRAKA 60c, KENDA 30 m",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "822 19mm",
+   "naziv": "krep traka 60c, 19mmx30m",
+   "pr_cena": 35.3
+ },
+ {
+   "sif_mat": "822 25mm",
+   "naziv": "krep traka 60c, 25mmx30m",
+   "pr_cena": 46.5
+ },
+ {
+   "sif_mat": "822 30mm",
+   "naziv": "krep traka 60c, 30mmx30m",
+   "pr_cena": 55.7
+ },
+ {
+   "sif_mat": "822 38mm",
+   "naziv": "krep traka 60c, 38mmx30m",
+   "pr_cena": 70.6
+ },
+ {
+   "sif_mat": "822 50mm",
+   "naziv": "krep traka 60c, 48mmx30m",
+   "pr_cena": 89
+ },
+ {
+   "sif_mat": "83",
+   "naziv": "AMBALA�NA TRAKA, KENDA, 50 m",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "83-tra.i",
+   "naziv": "ital.transparentna traka 50x50",
+   "pr_cena": 98
+ },
+ {
+   "sif_mat": "83.1 bra",
+   "naziv": "amb.traka braon 48mmx50m NEW",
+   "pr_cena": 97
+ },
+ {
+   "sif_mat": "83.1 tra",
+   "naziv": "amb.traka transp. 48mmx50m NEW",
+   "pr_cena": 97
+ },
+ {
+   "sif_mat": "84",
+   "naziv": "DVOSTRANO LEPLJIVA TRAKA,KENDA",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "84-50x10",
+   "naziv": "duplex traka 50mm x 10m",
+   "pr_cena": 94.6
+ },
+ {
+   "sif_mat": "85",
+   "naziv": "DUCT TRAKA",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "85-50x10",
+   "naziv": "duct traka silver 50mm x 10m",
+   "pr_cena": 155
+ },
+ {
+   "sif_mat": "851-10cr",
+   "naziv": "duct traka crna 50 mm x 10 m",
+   "pr_cena": 155
+ },
+ {
+   "sif_mat": "852-40si",
+   "naziv": "duct traka silver 50 mm x 40 m",
+   "pr_cena": 495
+ },
+ {
+   "sif_mat": "86",
+   "naziv": "stre? folija 500x300 m",
+   "pr_cena": 568.296
+ },
+ {
+   "sif_mat": "86-1",
+   "naziv": "Ma�inska stre? folija 500x23mm",
+   "pr_cena": 180
+ },
+ {
+   "sif_mat": "86-2",
+   "naziv": "Ru?na stre? folija 500x23mm",
+   "pr_cena": 183
+ },
+ {
+   "sif_mat": "87",
+   "naziv": "LEB-�ampon sa sjajem, 10 kg",
+   "pr_cena": 1355
+ },
+ {
+   "sif_mat": "88",
+   "naziv": "cera - vosak, 10 kg",
+   "pr_cena": 2356
+ },
+ {
+   "sif_mat": "88-1",
+   "naziv": "cera - vosak, 35 kg",
+   "pr_cena": 7478.45
+ },
+ {
+   "sif_mat": "89",
+   "naziv": "gum brillant-sjaj za gume,10kg",
+   "pr_cena": 1357
+ },
+ {
+   "sif_mat": "90",
+   "naziv": "pulimotor-sred.za pranje,10 kg",
+   "pr_cena": 1273.6
+ },
+ {
+   "sif_mat": "90-1",
+   "naziv": "Pulimotor-sred.za pranje 5kg",
+   "pr_cena": 536.355
+ },
+ {
+   "sif_mat": "91",
+   "naziv": "sredstvo za pranje moketa,10kg",
+   "pr_cena": 1470.65
+ },
+ {
+   "sif_mat": "92",
+   "naziv": "turbowash te?ni sapun, 10kg",
+   "pr_cena": 1684
+ },
+ {
+   "sif_mat": "93",
+   "naziv": "sredstvo za pranje cirada,10kg",
+   "pr_cena": 1630.86
+ },
+ {
+   "sif_mat": "94",
+   "naziv": "deterd�ent za pranje felni10kg",
+   "pr_cena": 1416.8
+ },
+ {
+   "sif_mat": "94-1",
+   "naziv": "auto �ampon 10 kg",
+   "pr_cena": 902.4
+ },
+ {
+   "sif_mat": "94-2",
+   "naziv": "SJAJ ZA GUME",
+   "pr_cena": 179.7
+ },
+ {
+   "sif_mat": "95",
+   "naziv": "MEG monoetilenglucol,u rinfuzi",
+   "pr_cena": 107626.519
+ },
+ {
+   "sif_mat": "95-1",
+   "naziv": "POLIETILEN 6100 HDPE black",
+   "pr_cena": 146.88
+ },
+ {
+   "sif_mat": "95-10",
+   "naziv": "MEG monoetilenglucol, 200 kg",
+   "pr_cena": 82.599
+ },
+ {
+   "sif_mat": "95-2",
+   "naziv": "POCINKOVANA �ICA F0,80",
+   "pr_cena": 175
+ },
+ {
+   "sif_mat": "95-3",
+   "naziv": "HIPTEN 21018 A6",
+   "pr_cena": 141.5
+ },
+ {
+   "sif_mat": "95-4",
+   "naziv": "KALCIJUM FORMIJAT",
+   "pr_cena": 77.66
+ },
+ {
+   "sif_mat": "95-5",
+   "naziv": "NEROPRINTEX V",
+   "pr_cena": 652.58
+ },
+ {
+   "sif_mat": "95-6",
+   "naziv": "NEROPRINTEX 300",
+   "pr_cena": 427.14
+ },
+ {
+   "sif_mat": "95-7",
+   "naziv": "Bateria SP62 79 33",
+   "pr_cena": 31027.11
+ },
+ {
+   "sif_mat": "95-8",
+   "naziv": "INHIBITOR",
+   "pr_cena": 106466
+ },
+ {
+   "sif_mat": "96",
+   "naziv": "Letnja vetrobranska te?nost",
+   "pr_cena": 298.54
+ },
+ {
+   "sif_mat": "96.1",
+   "naziv": "Aqua lazura tamno braon 5 L",
+   "pr_cena": 754
+ },
+ {
+   "sif_mat": "96.2",
+   "naziv": "Irkolin gold palisander 3 L",
+   "pr_cena": 1472.64
+ },
+ {
+   "sif_mat": "97",
+   "naziv": "GLICERIN FARMACEUTSKI 99,5%",
+   "pr_cena": 85886.618
+ },
+ {
+   "sif_mat": "97-DOT3",
+   "naziv": "DOT3 ko?iono ulje 220",
+   "pr_cena": 215
+ },
+ {
+   "sif_mat": "97-DOT4",
+   "naziv": "DOT4 ko?iono ulje 220",
+   "pr_cena": 260
+ },
+ {
+   "sif_mat": "98-DOT3",
+   "naziv": "DOT3 ko?iono ulje u tanku",
+   "pr_cena": 141.87
+ },
+ {
+   "sif_mat": "98-DOT4",
+   "naziv": "DOT4 ko?iono ulje",
+   "pr_cena": 167.37
+ },
+ {
+   "sif_mat": "98-DOT4R",
+   "naziv": "DOT 4 REG. ko?ionu ulje",
+   "pr_cena": 215
+ },
+ {
+   "sif_mat": "98-GRLI",
+   "naziv": "Litijumska mast GR LI EP",
+   "pr_cena": 224.3
+ },
+ {
+   "sif_mat": "98-KTR",
+   "naziv": "Titan dioksid KTR 720",
+   "pr_cena": 326616.192
+ },
+ {
+   "sif_mat": "98-LI2",
+   "naziv": "Litijumska mast GR LI 2",
+   "pr_cena": 219.6
+ },
+ {
+   "sif_mat": "98-M 25",
+   "naziv": "Litijum LC M 25",
+   "pr_cena": 521.98
+ },
+ {
+   "sif_mat": "98-TiO2",
+   "naziv": "Titan-dioksid R-001",
+   "pr_cena": 317
+ },
+ {
+   "sif_mat": "98-Tyl.",
+   "naziv": "TYLOSE MH 4000 KG4",
+   "pr_cena": 665.61
+ },
+ {
+   "sif_mat": "99",
+   "naziv": "KOKPIT SPREJ 750 ml",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "99-001",
+   "naziv": "kokpit sprej 750 ml - bor",
+   "pr_cena": 225
+ },
+ {
+   "sif_mat": "99-002",
+   "naziv": "kokpit sprej 750 ml - limun",
+   "pr_cena": 225
+ },
+ {
+   "sif_mat": "99-003",
+   "naziv": "kokpit sprej 750 ml - lavanda",
+   "pr_cena": 225
+ },
+ {
+   "sif_mat": "99-004",
+   "naziv": "kokpit sprej 750 ml - vanila",
+   "pr_cena": 225
+ },
+ {
+   "sif_mat": "99-005",
+   "naziv": "kokpit sprej 750 ml - jabuka",
+   "pr_cena": 225
+ },
+ {
+   "sif_mat": "99-006",
+   "naziv": "kokpit sprej 750 ml - vi�nja",
+   "pr_cena": 225
+ },
+ {
+   "sif_mat": "99-007",
+   "naziv": "kokpit sprej 750 ml - kokos",
+   "pr_cena": 225
+ },
+ {
+   "sif_mat": "99-008",
+   "naziv": "kokpit sprej 750 ml - narand�a",
+   "pr_cena": 225
+ },
+ {
+   "sif_mat": "99-009",
+   "naziv": "kokpit sprej 750 ml - jagoda",
+   "pr_cena": 205
+ },
+ {
+   "sif_mat": "99-010",
+   "naziv": "kokpit sprej 750 ml - black",
+   "pr_cena": 225
+ },
+ {
+   "sif_mat": "99-011",
+   "naziv": "kokpit sprej 750 ml - new car",
+   "pr_cena": 225
+ },
+ {
+   "sif_mat": "99.",
+   "naziv": "�MIRGLA BELA KORUND",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "99.1",
+   "naziv": "12cm x 25m P40 bela �mirgla",
+   "pr_cena": 55.94
+ },
+ {
+   "sif_mat": "99.2",
+   "naziv": "12cm x 50m P60 bela �mirgla",
+   "pr_cena": 51.95
+ },
+ {
+   "sif_mat": "99.3",
+   "naziv": "12cm x 50m P80 bela �mirgla",
+   "pr_cena": 47.95
+ },
+ {
+   "sif_mat": "99.5",
+   "naziv": "12cm x 50m P120 bela �mirgla",
+   "pr_cena": 43.96
+ },
+ {
+   "sif_mat": "99.6",
+   "naziv": "12cm x 50m P150 bela �mirgla",
+   "pr_cena": 45.79
+ },
+ {
+   "sif_mat": "99.7",
+   "naziv": "12cm x 50m P180 bela �mirgla",
+   "pr_cena": 43.96
+ },
+ {
+   "sif_mat": "99.90",
+   "naziv": "12cm x 50m P240 bela �mirgla",
+   "pr_cena": 45.79
+ },
+ {
+   "sif_mat": "9990.0",
+   "naziv": "BRU�ENE SVETLE BURGIJE",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9990.1",
+   "naziv": "DIN 338 HSS br s 1,00",
+   "pr_cena": 84
+ },
+ {
+   "sif_mat": "9990.1.5",
+   "naziv": "DIN 338 HSS br s 1,50",
+   "pr_cena": 65.5
+ },
+ {
+   "sif_mat": "9990.2",
+   "naziv": "DIN 338 HSS br s 2,00",
+   "pr_cena": 60
+ },
+ {
+   "sif_mat": "9990.2.5",
+   "naziv": "DIN 338 HSS br s 2,50",
+   "pr_cena": 65.5
+ },
+ {
+   "sif_mat": "9990.3",
+   "naziv": "DIN 338 HSS br s 3,00",
+   "pr_cena": 65.5
+ },
+ {
+   "sif_mat": "9990.3.2",
+   "naziv": "DIN 338 HSS br s 3,20",
+   "pr_cena": 65.5
+ },
+ {
+   "sif_mat": "9990.3.5",
+   "naziv": "DIN 338 HSS br s 3,50",
+   "pr_cena": 80.5
+ },
+ {
+   "sif_mat": "9990.3.8",
+   "naziv": "DIN 338 HSS br s 3,80",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9990.4",
+   "naziv": "DIN 338 HSS br s 4,00",
+   "pr_cena": 90
+ },
+ {
+   "sif_mat": "9990.4.2",
+   "naziv": "DIN 338 HSS br s 4,20",
+   "pr_cena": 99
+ },
+ {
+   "sif_mat": "9990.4.5",
+   "naziv": "DIN 338 HSS br s 4,50",
+   "pr_cena": 101
+ },
+ {
+   "sif_mat": "9990.4.8",
+   "naziv": "DIN 338 HSS br s 4,80",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9990.5",
+   "naziv": "DIN 338 HSS br s 5,00",
+   "pr_cena": 110
+ },
+ {
+   "sif_mat": "9990.5.5",
+   "naziv": "DIN 338 HSS br s 5,50",
+   "pr_cena": 150
+ },
+ {
+   "sif_mat": "9990.5.8",
+   "naziv": "DIN 338 HSS br s 5,80",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9990.6",
+   "naziv": "DIN 338 HSS br s 6,00",
+   "pr_cena": 150
+ },
+ {
+   "sif_mat": "9990.6.5",
+   "naziv": "DIN 338 HSS br s 6,50",
+   "pr_cena": 221
+ },
+ {
+   "sif_mat": "9990.6.8",
+   "naziv": "DIN 338 HSS br s 6,80",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9990.7",
+   "naziv": "DIN 338 HSS br s 7,00",
+   "pr_cena": 265
+ },
+ {
+   "sif_mat": "9990.7.5",
+   "naziv": "DIN 338 HSS br s 7,50",
+   "pr_cena": 298
+ },
+ {
+   "sif_mat": "9990.8",
+   "naziv": "DIN 338 HSS br s 8,00",
+   "pr_cena": 320.5
+ },
+ {
+   "sif_mat": "9990.8.5",
+   "naziv": "DIN 338 HSS br s 8,50",
+   "pr_cena": 339
+ },
+ {
+   "sif_mat": "9990.9.0",
+   "naziv": "DIN 338 HSS br s 9,00",
+   "pr_cena": 415
+ },
+ {
+   "sif_mat": "9990.9.5",
+   "naziv": "DIN 338 HSS br s 9,50",
+   "pr_cena": 449
+ },
+ {
+   "sif_mat": "9990100",
+   "naziv": "DIN 338 HSS br s 10,00",
+   "pr_cena": 493
+ },
+ {
+   "sif_mat": "9990102",
+   "naziv": "DIN 338 HSS br s 10,20",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9990105",
+   "naziv": "DIN 338 HSS br s 10,50",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9990110",
+   "naziv": "DIN 338 HSS br s 11,00",
+   "pr_cena": 690
+ },
+ {
+   "sif_mat": "9990115",
+   "naziv": "DIN 338 HSS br s 11,50",
+   "pr_cena": 758
+ },
+ {
+   "sif_mat": "9990120",
+   "naziv": "DIN 338 HSS br s 12,00",
+   "pr_cena": 838
+ },
+ {
+   "sif_mat": "9990125",
+   "naziv": "DIN 338 HSS br s 12,50",
+   "pr_cena": 915.6
+ },
+ {
+   "sif_mat": "9990130",
+   "naziv": "DIN 338 HSS br s 13,00",
+   "pr_cena": 934
+ },
+ {
+   "sif_mat": "9991.0",
+   "naziv": "VALJANE CRNE BURGIJE",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9991.1",
+   "naziv": "DIN 338 HSS 1,00 BRU�ENA CRNA",
+   "pr_cena": 84
+ },
+ {
+   "sif_mat": "9991.1.5",
+   "naziv": "DIN 338 HSS va c 1,50",
+   "pr_cena": 33.3
+ },
+ {
+   "sif_mat": "9991.2",
+   "naziv": "DIN 338 HSS va c 2,00",
+   "pr_cena": 30
+ },
+ {
+   "sif_mat": "9991.2.5",
+   "naziv": "DIN 338 HSS va c 2,50",
+   "pr_cena": 33.3
+ },
+ {
+   "sif_mat": "9991.3",
+   "naziv": "DIN 338 HSS va c 3,00",
+   "pr_cena": 33.3
+ },
+ {
+   "sif_mat": "9991.3.2",
+   "naziv": "DIN 338 HSS va c 3,20",
+   "pr_cena": 33.3
+ },
+ {
+   "sif_mat": "9991.3.5",
+   "naziv": "DIN 338 HSS va c 3,50",
+   "pr_cena": 40.2
+ },
+ {
+   "sif_mat": "9991.3.8",
+   "naziv": "DIN 338 HSS va c 3,80",
+   "pr_cena": 44.7
+ },
+ {
+   "sif_mat": "9991.4",
+   "naziv": "DIN 338 HSS va c 4,00",
+   "pr_cena": 45
+ },
+ {
+   "sif_mat": "9991.4.2",
+   "naziv": "DIN 338 HSS va c 4,20",
+   "pr_cena": 49.4
+ },
+ {
+   "sif_mat": "9991.4.5",
+   "naziv": "DIN 338 HSS va c 4,50",
+   "pr_cena": 50.6
+ },
+ {
+   "sif_mat": "9991.4.8",
+   "naziv": "DIN 338 HSS va c 4,80",
+   "pr_cena": 51.01
+ },
+ {
+   "sif_mat": "9991.5",
+   "naziv": "DIN 338 HSS va c 5,00",
+   "pr_cena": 55
+ },
+ {
+   "sif_mat": "9991.5.5",
+   "naziv": "DIN 338 HSS va c 5,50",
+   "pr_cena": 75
+ },
+ {
+   "sif_mat": "9991.5.8",
+   "naziv": "DIN 338 HSS va c 5,80",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9991.6",
+   "naziv": "DIN 338 HSS va c 6,00",
+   "pr_cena": 75
+ },
+ {
+   "sif_mat": "9991.6.5",
+   "naziv": "DIN 338 HSS va c 6,50",
+   "pr_cena": 110
+ },
+ {
+   "sif_mat": "9991.6.8",
+   "naziv": "DIN 338 HSS va c 6,80",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9991.7",
+   "naziv": "DIN 338 HSS va c 7,00",
+   "pr_cena": 133
+ },
+ {
+   "sif_mat": "9991.7.5",
+   "naziv": "DIN 338 HSS va c 7,50",
+   "pr_cena": 148
+ },
+ {
+   "sif_mat": "9991.8",
+   "naziv": "DIN 338 HSS va c 8,00",
+   "pr_cena": 160.3
+ },
+ {
+   "sif_mat": "9991.8.5",
+   "naziv": "DIN 338 HSS va c 8,50",
+   "pr_cena": 169
+ },
+ {
+   "sif_mat": "9991.9",
+   "naziv": "DIN 338 HSS va c 9,00",
+   "pr_cena": 208
+ },
+ {
+   "sif_mat": "9991.9.5",
+   "naziv": "DIN 338 HSS va c 9,50",
+   "pr_cena": 225
+ },
+ {
+   "sif_mat": "9991100",
+   "naziv": "DIN 338 HSS va c 10,00",
+   "pr_cena": 247
+ },
+ {
+   "sif_mat": "9991102",
+   "naziv": "DIN 338 HSS va c 10,20",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9991105",
+   "naziv": "DIN 338 HSS va c 10,50",
+   "pr_cena": 309
+ },
+ {
+   "sif_mat": "9991110",
+   "naziv": "DIN 338 HSS va c 11,00",
+   "pr_cena": 362.5
+ },
+ {
+   "sif_mat": "9991115",
+   "naziv": "DIN 338 HSS va c 11,50",
+   "pr_cena": 378
+ },
+ {
+   "sif_mat": "9991120",
+   "naziv": "DIN 338 HSS va c 12,00",
+   "pr_cena": 419
+ },
+ {
+   "sif_mat": "9991125",
+   "naziv": "DIN 338 HSS va c 12,50",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9991130",
+   "naziv": "DIN 338 HSS va c 13,00",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9991131",
+   "naziv": "KOBALTNE BURGIJE",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9991132",
+   "naziv": "DIN 338 Co 5% Fi 4,0",
+   "pr_cena": 153
+ },
+ {
+   "sif_mat": "9991133",
+   "naziv": "DIN 338 Co 5% Fi 6,0",
+   "pr_cena": 254
+ },
+ {
+   "sif_mat": "9991134",
+   "naziv": "DIN 338 Co 5% Fi 3,5",
+   "pr_cena": 137
+ },
+ {
+   "sif_mat": "9991135",
+   "naziv": "DIN 338 Co 5% Fi 2,0",
+   "pr_cena": 101
+ },
+ {
+   "sif_mat": "9991136",
+   "naziv": "DIN 338 Co 5% Fi 3,0",
+   "pr_cena": 111.5
+ },
+ {
+   "sif_mat": "9991137",
+   "naziv": "DIN 338 Co 5% Fi 3,2",
+   "pr_cena": 111.5
+ },
+ {
+   "sif_mat": "9991138",
+   "naziv": "DIN 338 Co 5% Fi 4,2",
+   "pr_cena": 167.8
+ },
+ {
+   "sif_mat": "9991139",
+   "naziv": "DIN 338 Co 5% Fi 4,5",
+   "pr_cena": 172
+ },
+ {
+   "sif_mat": "9991140",
+   "naziv": "DIN 338 Co 5% Fi 7,00",
+   "pr_cena": 451
+ },
+ {
+   "sif_mat": "9991141",
+   "naziv": "DIN 338 Co 5% Fi 8,00",
+   "pr_cena": 544
+ },
+ {
+   "sif_mat": "9991142",
+   "naziv": "DIN 338 Co 5% Fi 9,00",
+   "pr_cena": 707
+ },
+ {
+   "sif_mat": "9991143",
+   "naziv": "DIN 338 Co 5% Fi 10,00",
+   "pr_cena": 838
+ },
+ {
+   "sif_mat": "9991144",
+   "naziv": "DIN 338 Co 5% Fi 12,00",
+   "pr_cena": 1425
+ },
+ {
+   "sif_mat": "9991145",
+   "naziv": "DIN 338 Co 5% Fi 5,00",
+   "pr_cena": 188.5
+ },
+ {
+   "sif_mat": "9991146",
+   "naziv": "DIN 338 Co 5% Fi 2,5",
+   "pr_cena": 103.24
+ },
+ {
+   "sif_mat": "9992.0",
+   "naziv": "BRUSNE PLO?E",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9992.0.1",
+   "naziv": "115  x 1  x 22   8606005490505",
+   "pr_cena": 83.25
+ },
+ {
+   "sif_mat": "9992.0.2",
+   "naziv": "115 x 1.6 x 22  8606005490512",
+   "pr_cena": 91.58
+ },
+ {
+   "sif_mat": "9992.0.3",
+   "naziv": "115 x 2.5 x 22",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9992.0.4",
+   "naziv": "115 x 3  x 22    8606005490529",
+   "pr_cena": 76.96
+ },
+ {
+   "sif_mat": "9992.0.5",
+   "naziv": "115 x 6  x 22    8606005490536",
+   "pr_cena": 130.24
+ },
+ {
+   "sif_mat": "9992.0.6",
+   "naziv": "125 x 1  x 22    8606005490543",
+   "pr_cena": 96.2
+ },
+ {
+   "sif_mat": "9992.0.7",
+   "naziv": "125 x 3  x 22    8606005490550",
+   "pr_cena": 81.86
+ },
+ {
+   "sif_mat": "9992.0.8",
+   "naziv": "125 x 6  x 22    8606005490567",
+   "pr_cena": 143.56
+ },
+ {
+   "sif_mat": "9992.0.9",
+   "naziv": "180 x 1.6 x 22  8606005490574",
+   "pr_cena": 180.56
+ },
+ {
+   "sif_mat": "9992.010",
+   "naziv": "180 x 3  x 22    8606005490581",
+   "pr_cena": 131.81
+ },
+ {
+   "sif_mat": "9992.011",
+   "naziv": "180 x 6  x 22    8606005490598",
+   "pr_cena": 223.48
+ },
+ {
+   "sif_mat": "9992.012",
+   "naziv": "230 x 1.9 x 22  8606005490604",
+   "pr_cena": 253.08
+ },
+ {
+   "sif_mat": "9992.013",
+   "naziv": "230 x 3  x 22    8606005490611",
+   "pr_cena": 196.84
+ },
+ {
+   "sif_mat": "9992.014",
+   "naziv": "230 x 6  x 22    8606005490628",
+   "pr_cena": 381.84
+ },
+ {
+   "sif_mat": "9992.015",
+   "naziv": "300 x 3.5 x 32  8606005490635",
+   "pr_cena": 452.88
+ },
+ {
+   "sif_mat": "9992.016",
+   "naziv": "350 x 3.5 x 32  8606005490642",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9993.0",
+   "naziv": "BURGIJE ZA BETON",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9993.0.1",
+   "naziv": "BV DIN 8039 va 3",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9993.0.2",
+   "naziv": "BV DIN 8039 va 4",
+   "pr_cena": 70.5
+ },
+ {
+   "sif_mat": "9993.0.3",
+   "naziv": "BV DIN 8039 va 5",
+   "pr_cena": 74
+ },
+ {
+   "sif_mat": "9993.0.4",
+   "naziv": "BV DIN 8039 va 6",
+   "pr_cena": 78
+ },
+ {
+   "sif_mat": "9993.0.5",
+   "naziv": "BV DIN 8039 va 8",
+   "pr_cena": 100
+ },
+ {
+   "sif_mat": "9993.0.6",
+   "naziv": "BV DIN 8039 va 10",
+   "pr_cena": 130
+ },
+ {
+   "sif_mat": "9993.0.7",
+   "naziv": "BV DIN 8039 va 12",
+   "pr_cena": 203
+ },
+ {
+   "sif_mat": "9994.0",
+   "naziv": "RU?NI UREZNICI",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9994.0.1",
+   "naziv": "DIN 352 HSS M 4 gar",
+   "pr_cena": 671.65
+ },
+ {
+   "sif_mat": "9994.0.2",
+   "naziv": "DIN 352 HSS M 5 gar",
+   "pr_cena": 696.86
+ },
+ {
+   "sif_mat": "9994.0.3",
+   "naziv": "DIN 352 HSS M 6 gar",
+   "pr_cena": 780
+ },
+ {
+   "sif_mat": "9994.0.4",
+   "naziv": "DIN 352 HSS M 8 gar",
+   "pr_cena": 868
+ },
+ {
+   "sif_mat": "9994.0.5",
+   "naziv": "DIN 352 HSS M 10 gar",
+   "pr_cena": 1103.5
+ },
+ {
+   "sif_mat": "9994.0.6",
+   "naziv": "DIN 352 HSS M 12 gar",
+   "pr_cena": 1433.28
+ },
+ {
+   "sif_mat": "9995.0",
+   "naziv": "NAREZNICE EN 22568",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9995.0.1",
+   "naziv": "DIN 223  HSS  M4  6g",
+   "pr_cena": 492.71
+ },
+ {
+   "sif_mat": "9995.0.2",
+   "naziv": "DIN 223  HSS  M5  6g",
+   "pr_cena": 506.8
+ },
+ {
+   "sif_mat": "9995.0.3",
+   "naziv": "DIN 223  HSS  M6  6g",
+   "pr_cena": 506.8
+ },
+ {
+   "sif_mat": "9995.0.4",
+   "naziv": "DIN 223  HSS  M8  6g",
+   "pr_cena": 534.95
+ },
+ {
+   "sif_mat": "9995.0.5",
+   "naziv": "DIN 223  HSS  M10  6g",
+   "pr_cena": 647.56
+ },
+ {
+   "sif_mat": "9995.0.6",
+   "naziv": "DIN 223  HSS  M12  6g",
+   "pr_cena": 1224.74
+ },
+ {
+   "sif_mat": "9996.0",
+   "naziv": "DVOSTRANE BURGIJE",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9996.0.4",
+   "naziv": "Bru�ene crne HSS c 4",
+   "pr_cena": 119.24
+ },
+ {
+   "sif_mat": "9997.0",
+   "naziv": "PRODU�ENE BURGIJE ZA METAL",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9997.0.3",
+   "naziv": "Prod. bv31 c 3",
+   "pr_cena": 111.5
+ },
+ {
+   "sif_mat": "9997.0.4",
+   "naziv": "Prod. bv31 c 4",
+   "pr_cena": 143.7
+ },
+ {
+   "sif_mat": "9997.0.5",
+   "naziv": "Prod.bv31 c 5",
+   "pr_cena": 182
+ },
+ {
+   "sif_mat": "9997.0.6",
+   "naziv": "Prod. bv31 c 6",
+   "pr_cena": 219.5
+ },
+ {
+   "sif_mat": "9997.032",
+   "naziv": "Prod. bv31 c 3,2",
+   "pr_cena": 103.6
+ },
+ {
+   "sif_mat": "9997.035",
+   "naziv": "Prod. bv31 c 3,5",
+   "pr_cena": 121.32
+ },
+ {
+   "sif_mat": "9997.042",
+   "naziv": "Prod. bv31 c 4,2",
+   "pr_cena": 138.36
+ },
+ {
+   "sif_mat": "9997.055",
+   "naziv": "Prod. bv31 c 5,5",
+   "pr_cena": 202.24
+ },
+ {
+   "sif_mat": "9998.0",
+   "naziv": "STEPENASTE BURGIJE ZA LIM",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9998.4-3",
+   "naziv": "Stepenasta burgija 4-30",
+   "pr_cena": 6829.76
+ },
+ {
+   "sif_mat": "9999.0",
+   "naziv": "MA�INSKI UREZNICI",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "9999.0.1",
+   "naziv": "DIN 376 A HSS M 4 6H",
+   "pr_cena": 488.68
+ },
+ {
+   "sif_mat": "9999.0.2",
+   "naziv": "DIN 376 A HSS M 5 6H",
+   "pr_cena": 505.52
+ },
+ {
+   "sif_mat": "9999.0.3",
+   "naziv": "DIN 376 A HSS M 6 6H",
+   "pr_cena": 509.96
+ },
+ {
+   "sif_mat": "9999.0.4",
+   "naziv": "DIN 376 A HSS M 8 6H",
+   "pr_cena": 550.77
+ },
+ {
+   "sif_mat": "9999.0.5",
+   "naziv": "DIN 376 A HSS M 10 6H",
+   "pr_cena": 642.08
+ },
+ {
+   "sif_mat": "9999.0.6",
+   "naziv": "DIN 376 A HSS M 12 6H",
+   "pr_cena": 771.58
+ },
+ {
+   "sif_mat": "BM 306",
+   "naziv": "Vosak polir krema 250 ml",
+   "pr_cena": 505
+ },
+ {
+   "sif_mat": "BM 307",
+   "naziv": "Polir pasta abrazivna 250 ml",
+   "pr_cena": 295
+ },
+ {
+   "sif_mat": "BM 308",
+   "naziv": "Sreds.za autopoliranje 250 ml",
+   "pr_cena": 307.5
+ },
+ {
+   "sif_mat": "BM 309",
+   "naziv": "Sred. za ?i�.hromir.delova 250",
+   "pr_cena": 407.5
+ },
+ {
+   "sif_mat": "BM 317",
+   "naziv": "Pulimotor sp.za ?i�?enje m.400",
+   "pr_cena": 295
+ },
+ {
+   "sif_mat": "BM 365",
+   "naziv": "Sred.za gume sa pumpicom 750ml",
+   "pr_cena": 305
+ },
+ {
+   "sif_mat": "BM 367",
+   "naziv": "Sredstvo za ko�u i skaj 750 ml",
+   "pr_cena": 300
+ },
+ {
+   "sif_mat": "BM 368",
+   "naziv": "Sr.za mokete i presvlake 750ml",
+   "pr_cena": 297.5
+ },
+ {
+   "sif_mat": "BM 369",
+   "naziv": "Sred.za stakla sa pumpicom 750",
+   "pr_cena": 302.5
+ },
+ {
+   "sif_mat": "BM 370",
+   "naziv": "Sreds.za felne sa pumpicom 750",
+   "pr_cena": 300
+ },
+ {
+   "sif_mat": "BM 475",
+   "naziv": "Sred.za gume te?nost 1000 ml",
+   "pr_cena": 245
+ },
+ {
+   "sif_mat": "E01-001",
+   "naziv": "Ext SILIKON univ. transp.280ml",
+   "pr_cena": 295
+ },
+ {
+   "sif_mat": "E02-083",
+   "naziv": "Ext SILIKON univ. transp.60ml",
+   "pr_cena": 217
+ },
+ {
+   "sif_mat": "E03-002",
+   "naziv": "Ext SILIKON univerz.beli 280ml",
+   "pr_cena": 295
+ },
+ {
+   "sif_mat": "E04-084",
+   "naziv": "Ext SILIKON univerz.beli 60ml",
+   "pr_cena": 217
+ },
+ {
+   "sif_mat": "E05-003",
+   "naziv": "Ext SILIKON univerz.sivi 280ml",
+   "pr_cena": 315
+ },
+ {
+   "sif_mat": "E05-004",
+   "naziv": "Ext SILIKON univ. braon 280ml",
+   "pr_cena": 315
+ },
+ {
+   "sif_mat": "E05-005",
+   "naziv": "Ext SILIKON univerz.crni 280ml",
+   "pr_cena": 315
+ },
+ {
+   "sif_mat": "E05-006",
+   "naziv": "Ext SILIKON sanit.transp.280ml",
+   "pr_cena": 305
+ },
+ {
+   "sif_mat": "E06-008",
+   "naziv": "Ext SILIKON sanit.transp.60ml",
+   "pr_cena": 206
+ },
+ {
+   "sif_mat": "E07-007",
+   "naziv": "Ext SILIKON sanitar.beli 280ml",
+   "pr_cena": 305
+ },
+ {
+   "sif_mat": "E08-009",
+   "naziv": "Ext SILIKON sanitar.beli 60ml",
+   "pr_cena": 206
+ },
+ {
+   "sif_mat": "E09-010",
+   "naziv": "Ext SILIKON 300 C,CRVENI 300ml",
+   "pr_cena": 521
+ },
+ {
+   "sif_mat": "E10-011",
+   "naziv": "Ext SILIKON temp.300 C, 60ml",
+   "pr_cena": 278
+ },
+ {
+   "sif_mat": "E10-019",
+   "naziv": "Ext. KIT 1500 C 300 ml, CRNI",
+   "pr_cena": 533
+ },
+ {
+   "sif_mat": "E10-201",
+   "naziv": "Ext. SILIKON 300 C, CRNI 300ml",
+   "pr_cena": 521
+ },
+ {
+   "sif_mat": "E11-012",
+   "naziv": "Ext SILIKON neutralni tr.300ml",
+   "pr_cena": 417
+ },
+ {
+   "sif_mat": "E12-016",
+   "naziv": "Ext AKRILNI beli sil.kit 300ml",
+   "pr_cena": 152
+ },
+ {
+   "sif_mat": "E13-045",
+   "naziv": "Ext PUR PENA sa cev?icom 750ml",
+   "pr_cena": 556
+ },
+ {
+   "sif_mat": "E14-211",
+   "naziv": "Ext PUR PENA sa cev?icom 300ml",
+   "pr_cena": 374
+ },
+ {
+   "sif_mat": "E15-212",
+   "naziv": "Ext PUR PENA pi�toljska 750ml",
+   "pr_cena": 502
+ },
+ {
+   "sif_mat": "E16-213",
+   "naziv": "Ext PUR PENA izolaciona 750ml",
+   "pr_cena": 570
+ },
+ {
+   "sif_mat": "E17-214",
+   "naziv": "Ext SRED.ZA ?I�.PUR PENE 500ml",
+   "pr_cena": 460
+ },
+ {
+   "sif_mat": "E18-216",
+   "naziv": "Ext Hemijski tipl anker 300ml",
+   "pr_cena": 498
+ },
+ {
+   "sif_mat": "E18.217",
+   "naziv": "Ext HEMIJSKI TIPL ANKER 300ml",
+   "pr_cena": 675
+ },
+ {
+   "sif_mat": "E18.218",
+   "naziv": "CEV?ICA ZA ANKER plasti?na",
+   "pr_cena": 35
+ },
+ {
+   "sif_mat": "E19-064",
+   "naziv": "Ext SUPER LEPAK 3 gr",
+   "pr_cena": 125
+ },
+ {
+   "sif_mat": "E20-049",
+   "naziv": "Ext SUPER LEPAK 3x1 gr",
+   "pr_cena": 166
+ },
+ {
+   "sif_mat": "E21-022",
+   "naziv": "Ext LEPAK ZA KO�U 50 ml",
+   "pr_cena": 187
+ },
+ {
+   "sif_mat": "E21-240",
+   "naziv": "LEPAK ZA KO�U  10 ml",
+   "pr_cena": 158
+ },
+ {
+   "sif_mat": "E22-023",
+   "naziv": "Ext LEPAK ZA GUMU 50 ml",
+   "pr_cena": 187
+ },
+ {
+   "sif_mat": "E22-040",
+   "naziv": "Ext LEPAK ZA PLO?ICE 150 ml",
+   "pr_cena": 375
+ },
+ {
+   "sif_mat": "E22-238",
+   "naziv": "Ext LEPAK ZA GUMU 10 ml",
+   "pr_cena": 158
+ },
+ {
+   "sif_mat": "E23-025",
+   "naziv": "Ext TE?NI METAL dvokomp. 24 ml",
+   "pr_cena": 420
+ },
+ {
+   "sif_mat": "E24-026",
+   "naziv": "Ext DVOKOMP.UNIVERZ.LEPAK 24ml",
+   "pr_cena": 420
+ },
+ {
+   "sif_mat": "E25-029",
+   "naziv": "Ext KIT ZA REPARACIJU univ.56g",
+   "pr_cena": 420
+ },
+ {
+   "sif_mat": "E26-027",
+   "naziv": "Ext PODVODNI KIT ZA REPAR. 56g",
+   "pr_cena": 420
+ },
+ {
+   "sif_mat": "E27-032",
+   "naziv": "Ext LEPAK ZA DRVO transp.100gr",
+   "pr_cena": 134
+ },
+ {
+   "sif_mat": "E28-033",
+   "naziv": "Ext LEPAK ZA DRVO transp.250gr",
+   "pr_cena": 214
+ },
+ {
+   "sif_mat": "E29-030",
+   "naziv": "Ext FIX MONTA�NI LEPAK 300 ml",
+   "pr_cena": 448
+ },
+ {
+   "sif_mat": "E29-031",
+   "naziv": "Ext FIX MONTA�NI LEPAK 100 ml",
+   "pr_cena": 260
+ },
+ {
+   "sif_mat": "E30-036",
+   "naziv": "Ext PASTA ZA POPR.FUGA bela 60",
+   "pr_cena": 182
+ },
+ {
+   "sif_mat": "E31-037",
+   "naziv": "Ext PASTA ZA POPR.FUGA siva 60",
+   "pr_cena": 182
+ },
+ {
+   "sif_mat": "E32-038",
+   "naziv": "Ext SREDSTVO ZA ?I�?.FUGA 80ml",
+   "pr_cena": 214
+ },
+ {
+   "sif_mat": "E33-039",
+   "naziv": "Ext BELA BOJA ZA OBN.FUGA 80ml",
+   "pr_cena": 214
+ },
+ {
+   "sif_mat": "E34-041",
+   "naziv": "Ext KOREKTOR ZA KADE 50 ml",
+   "pr_cena": 319
+ },
+ {
+   "sif_mat": "E34-052",
+   "naziv": "Ext BELI KOREKTOR ZA ZID 125ml",
+   "pr_cena": 308
+ },
+ {
+   "sif_mat": "E35-070",
+   "naziv": "Ext ABSORBER VLAGE 250 gr",
+   "pr_cena": 616
+ },
+ {
+   "sif_mat": "E36-051",
+   "naziv": "Ext FIX TRAKA ZAPTIVNA 20x10cm",
+   "pr_cena": 485
+ },
+ {
+   "sif_mat": "E37-048",
+   "naziv": "Ext POLIMER 3u1, 50 ml tuba",
+   "pr_cena": 310
+ },
+ {
+   "sif_mat": "E38-215",
+   "naziv": "Ext POLIMER 3u1, 290ml kartu�a",
+   "pr_cena": 732
+ },
+ {
+   "sif_mat": "EPF-044",
+   "naziv": "Ext TE?NOST ZA ZA�TITU ZIDOVA",
+   "pr_cena": 575
+ },
+ {
+   "sif_mat": "FAREN4",
+   "naziv": "FAREN",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "FAREN4.1",
+   "naziv": "F200 Odstranjiva? kamenca",
+   "pr_cena": 573
+ },
+ {
+   "sif_mat": "FAREN4.2",
+   "naziv": "BETA 10 Vi�enamensko sredstvo",
+   "pr_cena": 380
+ },
+ {
+   "sif_mat": "FAREN4.3",
+   "naziv": "CITRUS Sredstvo za uklanjanje",
+   "pr_cena": 442
+ },
+ {
+   "sif_mat": "FAREN4.4",
+   "naziv": "MULTICLEAN Vi�enamenski",
+   "pr_cena": 430
+ },
+ {
+   "sif_mat": "FAREN4.5",
+   "naziv": "MELT Profesionalno sredstvo",
+   "pr_cena": 510
+ },
+ {
+   "sif_mat": "FAREN4.6",
+   "naziv": "F93 Cink sprej  protiv",
+   "pr_cena": 559
+ },
+ {
+   "sif_mat": "FAREN4.7",
+   "naziv": "F4 Odvija? sprej 400 ml",
+   "pr_cena": 461
+ },
+ {
+   "sif_mat": "FAREN4.8",
+   "naziv": "F20 Sredstvo za ?i�?enje",
+   "pr_cena": 706
+ },
+ {
+   "sif_mat": "FAREN5",
+   "naziv": "FAREN HORECA",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "FAREN5.1",
+   "naziv": "BIG SHOT 750 ml, sredstvo za",
+   "pr_cena": 447
+ },
+ {
+   "sif_mat": "FAREN5.2",
+   "naziv": "EASY COFFEE 350 ml, sredstvo",
+   "pr_cena": 447
+ },
+ {
+   "sif_mat": "FAREN5.3",
+   "naziv": "BREAK 750 ml, sredstvo za",
+   "pr_cena": 655
+ },
+ {
+   "sif_mat": "IMP1",
+   "naziv": "Prazna boca 250 ml",
+   "pr_cena": 34.8
+ },
+ {
+   "sif_mat": "IMP2",
+   "naziv": "Ventil VAL105",
+   "pr_cena": 6.83
+ },
+ {
+   "sif_mat": "IMP3",
+   "naziv": "Raspr�iva? za cev?i?u TAS026",
+   "pr_cena": 2.2
+ },
+ {
+   "sif_mat": "IMP4",
+   "naziv": "Poklopac gladak TAP017",
+   "pr_cena": 4.3
+ },
+ {
+   "sif_mat": "IZVOZ US",
+   "naziv": "IZVOZ USLUGE",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "MAPPY1",
+   "naziv": "MAPPYSTIK DIHTUNG TRAKA",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "MAPPY1.1",
+   "naziv": "Dihtung traka bela 10x6/8 m",
+   "pr_cena": 77
+ },
+ {
+   "sif_mat": "MAPPY2",
+   "naziv": "TENSTIK DIHTUNG TRAKA",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "MAPPY2.1",
+   "naziv": "Bela profil    D 9x6/100 m",
+   "pr_cena": 3000
+ },
+ {
+   "sif_mat": "MAPPY2.2",
+   "naziv": "Braon profil D 9x6/100 m",
+   "pr_cena": 3000
+ },
+ {
+   "sif_mat": "MAPPY2.3",
+   "naziv": "Bela profil    E 9x4/100 m",
+   "pr_cena": 2515
+ },
+ {
+   "sif_mat": "MAPPY2.4",
+   "naziv": "Braon profil E 9x4/100 m",
+   "pr_cena": 2515
+ },
+ {
+   "sif_mat": "MAPPY2.5",
+   "naziv": "Bela profil    P 9x5,5/100 m",
+   "pr_cena": 2636
+ },
+ {
+   "sif_mat": "MAPPY2.6",
+   "naziv": "Braon profil P 9x5,5/100 m",
+   "pr_cena": 2636
+ },
+ {
+   "sif_mat": "MAPPY3",
+   "naziv": "ELASTOFLEX",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "MAPPY3.1",
+   "naziv": "Elastoflex traka crna 50x3/15m",
+   "pr_cena": 930
+ },
+ {
+   "sif_mat": "MAPPY4",
+   "naziv": "MAPPYTUTTO DIHTUNG TRAKA",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "MAPPY4.1",
+   "naziv": "Dihtung traka siva 18x17/6,5 m",
+   "pr_cena": 273
+ },
+ {
+   "sif_mat": "OS0001",
+   "naziv": "OSNOVNO SREDSTVO",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "RM001",
+   "naziv": "REKLAMNE KESE FAREN",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "RM002",
+   "naziv": "SIJALICE ZA DEMONSTRACIJU",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "RM003",
+   "naziv": "PVC KADICA ZA DEMONSTRACIJU",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "RM004",
+   "naziv": "PVC SUDOPERA ZA PREZENTACIJU",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "RM005",
+   "naziv": "REKLAMNI PLAKATI 100X70",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "RM006",
+   "naziv": "REKLAMNI BLOKOVI",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "RM007",
+   "naziv": "OLOVKE FAREN",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "RM008",
+   "naziv": "PULT ZA PREZENTACIJU",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "RM009",
+   "naziv": "PRIVEZAK MELT",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "RM010",
+   "naziv": "PRIVEZAK F4",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "RM011",
+   "naziv": "PLAKATI",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "RM012",
+   "naziv": "REKLAMNE MAJICE",
+   "pr_cena": 0
+ },
+ {
+   "sif_mat": "RM013",
+   "naziv": "KARTONSKE POLICE",
+   "pr_cena": 3600
+ },
+ {
+   "sif_mat": "TK1111",
+   "naziv": "TON KARTA",
+   "pr_cena": 268.178
+ },
+ {
+   "sif_mat": "VERM1",
+   "naziv": "SPREJ  visoke temp. 400 ml",
+   "pr_cena": 217.2
+ },
+ {
+   "sif_mat": "VERM2",
+   "naziv": "SPREJ cink  chiaro 400 ml",
+   "pr_cena": 151.2
+ }
+]
